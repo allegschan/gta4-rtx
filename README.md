@@ -11,10 +11,7 @@ Compatible with __Grand Theft Auto IV: The Complete Edition (1.2.0.59)__
 
 <img width="1900" height="800" alt="image" src="https://github.com/user-attachments/assets/8608d1d7-5228-41c7-a62f-6335f38082f2" />
 
-
 <br>
-
-![img](.github/img/overview.jpg)
 
 </div>
 
