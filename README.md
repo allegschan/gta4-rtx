@@ -9,6 +9,9 @@ Compatible with __Grand Theft Auto IV: The Complete Edition (1.2.0.59)__
 
 **Feel free to join the discord server: https://discord.gg/FMnfhpfZy9**
 
+<img width="1900" height="800" alt="image" src="https://github.com/user-attachments/assets/8608d1d7-5228-41c7-a62f-6335f38082f2" />
+
+
 <br>
 
 ![img](.github/img/overview.jpg)
@@ -48,6 +51,9 @@ This means that the performance you'll see in certain places is not entirely due
 
 The mod comes with a custom [Remix Runtime](https://github.com/xoxor4d/dxvk-remix/tree/game/gta4_atmos10_nr2) required for a few game specific features,   
 with [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/tag/v9.0.0) to load the Compatibility Mod itself and a custom fork of [FusionFix](https://github.com/xoxor4d/GTAIV.EFLC.FusionFix.RTXRemix) tailored for RTX-Remix.
+
+<img width="1909" height="665" alt="image" src="https://github.com/user-attachments/assets/9dd7646a-07f9-449b-b123-6f7f1a39404d" />
+
 
 </div>
 
@@ -91,8 +97,9 @@ with [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/rel
 
 <div align="center" markdown="1"> 
 
-![img](.github/img/04.jpg)
-![img](.github/img/05.jpg)
+<img width="1909" height="665" alt="image" src="https://github.com/user-attachments/assets/44471efe-594a-4498-a18a-66172395369a" />
+<img width="1909" height="665" alt="image" src="https://github.com/user-attachments/assets/33d1abef-61c0-4636-860d-4680c82e9c8b" />
+
 </div>
 
 <br>
@@ -162,7 +169,9 @@ with [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/rel
 
 <br>
 
-![img](.github/img/02.jpg)
-![img](.github/img/06.jpg)
+<img width="2560" height="900" alt="image" src="https://github.com/user-attachments/assets/3d54540e-59ed-4f1a-9ca6-31b2a2bbdfec" />
+
+<img width="1909" height="665" alt="image" src="https://github.com/user-attachments/assets/c6d08808-330b-44fa-8d93-da17a1c0e65f" />
+
 
 </div>
