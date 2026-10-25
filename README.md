@@ -56,10 +56,6 @@ with [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/rel
 
 <br>
 
-![img](.github/img/03.jpg)
-
-<br>
-
 ###### The good:  
 - **DLSS 4.5 (Ray Reconstruction 2) support**
 - **DLSS 5.0 (Neural Rendering) support** (if you provide the necessary dll) - Integration made by [Sparkles](https://github.com/Kim2091/dxvk-remix/tree/gta4-atmos-dlss5)
